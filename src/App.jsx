@@ -34,7 +34,7 @@ const App = () => {
             <option value="beagle kiss">Besitos</option>
           </select>
           <input type="number" name="cantGifs" defaultValue={5} min={1} />
-          <button type="submit">Submit</button>
+          <button type="submit">Aseptar</button>
         </form>
 
         <hr />
