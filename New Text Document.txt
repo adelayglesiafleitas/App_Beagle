@@ -1,0 +1,1 @@
+https://api.giphy.com/v1/stickers/search?api_key=AlUxaKg2tzVucr5RGZ6Wsq49wauX3tns&q=pandas&limit=25&offset=0&rating=g&lang=en&bundle=messaging_non_clips

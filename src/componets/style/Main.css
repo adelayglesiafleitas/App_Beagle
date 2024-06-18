@@ -1,0 +1,23 @@
+.container_main {
+  width: 1024px;
+  height: 768px;
+
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+}
+.image_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5;
+}
+
+.image_container h4 {
+  font-size: 30px;
+  color: black;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
